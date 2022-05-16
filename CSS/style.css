@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+main {
+    background-color:rgb(2, 2, 41) ;
+}
+
+.banner {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    border-radius: 1rem;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(13, 22, 91);
+    color: white;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+.twitter-timeline {
+    border-radius: 1rem;
+    height: 100px;
+    padding: 1rem;
+    max-width: 100%;
+    margin: 0 auto;
+  
+}
+
+.timeline {
+    display: block;
+    margin: 0 auto;
+}
+
+h2 {
+    color: white;
+}
